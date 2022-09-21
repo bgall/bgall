@@ -1,1 +1,1 @@
-This is mostly a collection of various tools and testing repositories.
+I am a quantitative researcher studying preferences beliefs.
